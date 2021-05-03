@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # Screen Shot
-https://github.com/iamsaikatrahman/custompaint_clock/blob/main/output/Screenshot_1620028764.png
+![Screenshot_1620028764](https://user-images.githubusercontent.com/75200754/116854626-ce494400-ac19-11eb-9df4-5d918d961147.png)
 
 ## Getting Started
 
