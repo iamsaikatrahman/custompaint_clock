@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Screen Shot
+https://github.com/iamsaikatrahman/custompaint_clock/blob/main/output/Screenshot_1620028764.png
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
